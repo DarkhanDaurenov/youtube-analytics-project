@@ -1,7 +1,6 @@
 from googleapiclient.discovery import build
 import os
 import json
-from pprint import pprint
 from dotenv import load_dotenv
 from settings import FILE_NAME
 
